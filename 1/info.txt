@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Comfortaa-Bold
+font link: https://fonts.google.com/specimen/Comfortaa
+font author: Johan Aakerlund
+font author site: https://aajohan.deviantart.com/
+
+
+icon designer: wira wianda
+icon designer link: /wirawizinda097
+        
+
+fontColor: {"gradient-0":"#C2531D","gradient-1":"#646464"}
+bgColor: {"hex":"#FFFFFF"}
+iconColor: {"gradient-0":"#C2531D","gradient-1":"#646464"}
+
+      
